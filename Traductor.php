@@ -1,6 +1,7 @@
 <?php 
 
 /**
+ * TRADUCTOR 1.0
 * This class is in charge of translation in a php web application.
  * hosted in github 
  * By adonis97 <simoadonis@gmail.com>

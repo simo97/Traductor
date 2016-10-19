@@ -8,5 +8,5 @@
  */
 
 $lang['WLCM'] = 'Welcome in Traductor librairie ';
-$lang['BYE'] = 'Good by user !!!';
+$lang['BYE'] = 'Good bye user !!!';
 $lang['WORK'] = 'Finish its work !!!';
